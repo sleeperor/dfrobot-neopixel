@@ -1,0 +1,17 @@
+{
+    "name": "dfrobot-neopixel",
+    "meta": {},
+    "editor": "blocksprj",
+    "pubId": "",
+    "pubCurrent": false,
+    "target": "microbit",
+    "targetVersion": "2.3.16",
+    "cloudSync": false,
+    "id": "7ebf37c7-c347-4bc7-bd31-9a1340ad2d29",
+    "recentUse": 1587293072,
+    "modificationTime": 1587293072,
+    "path": "dfrobot-neopixel",
+    "blobCurrent": false,
+    "saveId": null,
+    "githubCurrent": false
+}
