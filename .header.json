@@ -1,7 +1,7 @@
 {
     "name": "dfrobot-neopixel",
     "meta": {},
-    "editor": "blocksprj",
+    "editor": "tsprj",
     "pubId": "",
     "pubCurrent": false,
     "target": "microbit",
